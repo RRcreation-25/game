@@ -1,0 +1,10 @@
+{
+  "name": "game-practice",
+  "version": "1.0.0",
+  "description": "A collection of simple JavaScript games: Simon, Stone, and Tic Tac Toe.",
+  "main": "",
+  "scripts": {},
+  "keywords": ["games", "javascript", "simon", "tic-tac-toe", "stone"],
+  "author": "",
+  "license": "MIT"
+}
